@@ -1,1 +1,4 @@
 *.tns
+datasets
+build
+cmake-debug-build
