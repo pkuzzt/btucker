@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/sptucker.dir/main.cpp.o"
   "CMakeFiles/sptucker.dir/src/def.cpp.o"
   "CMakeFiles/sptucker.dir/src/read_data.cpp.o"
+  "CMakeFiles/sptucker.dir/src/sptensor.cpp.o"
   "sptucker"
   "sptucker.pdb"
 )

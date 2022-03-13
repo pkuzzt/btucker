@@ -74,12 +74,12 @@ clean: CMakeFiles/sptucker.dir/clean
 CMakeFiles/sptucker.dir/all:
 	$(MAKE) -f CMakeFiles/sptucker.dir/build.make CMakeFiles/sptucker.dir/depend
 	$(MAKE) -f CMakeFiles/sptucker.dir/build.make CMakeFiles/sptucker.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zzt/btucker/build/CMakeFiles --progress-num=1,2,3,4 "Built target sptucker"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zzt/btucker/build/CMakeFiles --progress-num=1,2,3,4,5 "Built target sptucker"
 .PHONY : CMakeFiles/sptucker.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/sptucker.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zzt/btucker/build/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zzt/btucker/build/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sptucker.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zzt/btucker/build/CMakeFiles 0
 .PHONY : CMakeFiles/sptucker.dir/rule

@@ -7,9 +7,10 @@
 using namespace std;
 class data_buffer {
 public:
-    int ** index_lists;
+    size_t ** index_lists;
     double * vals;
-    int ndim;
+    size_t ndim;
+    size_t nnz;
 };
 
 void read_data(char* filename, data_buffer *dbf);

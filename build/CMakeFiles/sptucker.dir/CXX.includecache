@@ -6,12 +6,6 @@
 
 #IncludeRegexTransform: 
 
-../include/def.hpp
-stdio.h
--
-stdlib.h
--
-
 ../include/read_data.hpp
 stdlib.h
 -
@@ -20,33 +14,15 @@ stdio.h
 vector
 -
 
-/home/zzt/btucker/main.cpp
-stdio.h
--
+../include/sptensor.hpp
 read_data.hpp
-/home/zzt/btucker/read_data.hpp
-def.hpp
-/home/zzt/btucker/def.hpp
+../include/read_data.hpp
+cstdlib
+-
 
-/home/zzt/btucker/src/def.cpp
-def.hpp
-/home/zzt/btucker/src/def.hpp
-
-/home/zzt/btucker/src/read_data.cpp
-read_data.hpp
-/home/zzt/btucker/src/read_data.hpp
-def.hpp
-/home/zzt/btucker/src/def.hpp
-stdlib.h
--
-string.h
--
-sys/stat.h
--
-sys/mman.h
--
-fcntl.h
--
-stdio.h
+/home/zzt/btucker/src/sptensor.cpp
+sptensor.hpp
+/home/zzt/btucker/src/sptensor.hpp
+cstdio
 -
 

@@ -93,6 +93,9 @@
 		<Unit filename="/home/zzt/btucker/src/read_data.cpp">
 			<Option target="sptucker"/>
 		</Unit>
+		<Unit filename="/home/zzt/btucker/src/sptensor.cpp">
+			<Option target="sptucker"/>
+		</Unit>
 		<Unit filename="/home/zzt/btucker/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

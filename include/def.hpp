@@ -1,7 +1,8 @@
 #ifndef SPTUCKER_DEF_HPP
 #define SPTUCKER_DEF_HPP
-#include <stdio.h>
-#include <stdlib.h>
+#include <cstdio>
+#include <cstdlib>
+
 enum ERROR_FLAG{
     FILE_NAME_ERROR = 1,
     MALLOC_ERROR = 2,

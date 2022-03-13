@@ -3,6 +3,7 @@
 
 CMakeFiles/sptucker.dir/main.cpp.o: ../include/def.hpp
 CMakeFiles/sptucker.dir/main.cpp.o: ../include/read_data.hpp
+CMakeFiles/sptucker.dir/main.cpp.o: ../include/sptensor.hpp
 CMakeFiles/sptucker.dir/main.cpp.o: ../main.cpp
 
 CMakeFiles/sptucker.dir/src/def.cpp.o: ../include/def.hpp
@@ -11,4 +12,8 @@ CMakeFiles/sptucker.dir/src/def.cpp.o: ../src/def.cpp
 CMakeFiles/sptucker.dir/src/read_data.cpp.o: ../include/def.hpp
 CMakeFiles/sptucker.dir/src/read_data.cpp.o: ../include/read_data.hpp
 CMakeFiles/sptucker.dir/src/read_data.cpp.o: ../src/read_data.cpp
+
+CMakeFiles/sptucker.dir/src/sptensor.cpp.o: ../include/read_data.hpp
+CMakeFiles/sptucker.dir/src/sptensor.cpp.o: ../include/sptensor.hpp
+CMakeFiles/sptucker.dir/src/sptensor.cpp.o: ../src/sptensor.cpp
 

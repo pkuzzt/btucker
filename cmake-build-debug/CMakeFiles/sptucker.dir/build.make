@@ -60,47 +60,61 @@ include CMakeFiles/sptucker.dir/flags.make
 CMakeFiles/sptucker.dir/main.cpp.o: CMakeFiles/sptucker.dir/flags.make
 CMakeFiles/sptucker.dir/main.cpp.o: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zzt/btucker/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/sptucker.dir/main.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sptucker.dir/main.cpp.o -c /home/zzt/btucker/main.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sptucker.dir/main.cpp.o -c /home/zzt/btucker/main.cpp
 
 CMakeFiles/sptucker.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sptucker.dir/main.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zzt/btucker/main.cpp > CMakeFiles/sptucker.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zzt/btucker/main.cpp > CMakeFiles/sptucker.dir/main.cpp.i
 
 CMakeFiles/sptucker.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sptucker.dir/main.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zzt/btucker/main.cpp -o CMakeFiles/sptucker.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zzt/btucker/main.cpp -o CMakeFiles/sptucker.dir/main.cpp.s
 
 CMakeFiles/sptucker.dir/src/def.cpp.o: CMakeFiles/sptucker.dir/flags.make
 CMakeFiles/sptucker.dir/src/def.cpp.o: ../src/def.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zzt/btucker/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/sptucker.dir/src/def.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sptucker.dir/src/def.cpp.o -c /home/zzt/btucker/src/def.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sptucker.dir/src/def.cpp.o -c /home/zzt/btucker/src/def.cpp
 
 CMakeFiles/sptucker.dir/src/def.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sptucker.dir/src/def.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zzt/btucker/src/def.cpp > CMakeFiles/sptucker.dir/src/def.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zzt/btucker/src/def.cpp > CMakeFiles/sptucker.dir/src/def.cpp.i
 
 CMakeFiles/sptucker.dir/src/def.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sptucker.dir/src/def.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zzt/btucker/src/def.cpp -o CMakeFiles/sptucker.dir/src/def.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zzt/btucker/src/def.cpp -o CMakeFiles/sptucker.dir/src/def.cpp.s
 
 CMakeFiles/sptucker.dir/src/read_data.cpp.o: CMakeFiles/sptucker.dir/flags.make
 CMakeFiles/sptucker.dir/src/read_data.cpp.o: ../src/read_data.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zzt/btucker/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/sptucker.dir/src/read_data.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sptucker.dir/src/read_data.cpp.o -c /home/zzt/btucker/src/read_data.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sptucker.dir/src/read_data.cpp.o -c /home/zzt/btucker/src/read_data.cpp
 
 CMakeFiles/sptucker.dir/src/read_data.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sptucker.dir/src/read_data.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zzt/btucker/src/read_data.cpp > CMakeFiles/sptucker.dir/src/read_data.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zzt/btucker/src/read_data.cpp > CMakeFiles/sptucker.dir/src/read_data.cpp.i
 
 CMakeFiles/sptucker.dir/src/read_data.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sptucker.dir/src/read_data.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zzt/btucker/src/read_data.cpp -o CMakeFiles/sptucker.dir/src/read_data.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zzt/btucker/src/read_data.cpp -o CMakeFiles/sptucker.dir/src/read_data.cpp.s
+
+CMakeFiles/sptucker.dir/src/sptensor.cpp.o: CMakeFiles/sptucker.dir/flags.make
+CMakeFiles/sptucker.dir/src/sptensor.cpp.o: ../src/sptensor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zzt/btucker/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/sptucker.dir/src/sptensor.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sptucker.dir/src/sptensor.cpp.o -c /home/zzt/btucker/src/sptensor.cpp
+
+CMakeFiles/sptucker.dir/src/sptensor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sptucker.dir/src/sptensor.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zzt/btucker/src/sptensor.cpp > CMakeFiles/sptucker.dir/src/sptensor.cpp.i
+
+CMakeFiles/sptucker.dir/src/sptensor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sptucker.dir/src/sptensor.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zzt/btucker/src/sptensor.cpp -o CMakeFiles/sptucker.dir/src/sptensor.cpp.s
 
 # Object files for target sptucker
 sptucker_OBJECTS = \
 "CMakeFiles/sptucker.dir/main.cpp.o" \
 "CMakeFiles/sptucker.dir/src/def.cpp.o" \
-"CMakeFiles/sptucker.dir/src/read_data.cpp.o"
+"CMakeFiles/sptucker.dir/src/read_data.cpp.o" \
+"CMakeFiles/sptucker.dir/src/sptensor.cpp.o"
 
 # External object files for target sptucker
 sptucker_EXTERNAL_OBJECTS =
@@ -108,9 +122,10 @@ sptucker_EXTERNAL_OBJECTS =
 sptucker: CMakeFiles/sptucker.dir/main.cpp.o
 sptucker: CMakeFiles/sptucker.dir/src/def.cpp.o
 sptucker: CMakeFiles/sptucker.dir/src/read_data.cpp.o
+sptucker: CMakeFiles/sptucker.dir/src/sptensor.cpp.o
 sptucker: CMakeFiles/sptucker.dir/build.make
 sptucker: CMakeFiles/sptucker.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zzt/btucker/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable sptucker"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zzt/btucker/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable sptucker"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/sptucker.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

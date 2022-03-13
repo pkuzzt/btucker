@@ -204,6 +204,33 @@ src/read_data.cpp.s:
 	$(MAKE) -f CMakeFiles/sptucker.dir/build.make CMakeFiles/sptucker.dir/src/read_data.cpp.s
 .PHONY : src/read_data.cpp.s
 
+src/sptensor.o: src/sptensor.cpp.o
+
+.PHONY : src/sptensor.o
+
+# target to build an object file
+src/sptensor.cpp.o:
+	$(MAKE) -f CMakeFiles/sptucker.dir/build.make CMakeFiles/sptucker.dir/src/sptensor.cpp.o
+.PHONY : src/sptensor.cpp.o
+
+src/sptensor.i: src/sptensor.cpp.i
+
+.PHONY : src/sptensor.i
+
+# target to preprocess a source file
+src/sptensor.cpp.i:
+	$(MAKE) -f CMakeFiles/sptucker.dir/build.make CMakeFiles/sptucker.dir/src/sptensor.cpp.i
+.PHONY : src/sptensor.cpp.i
+
+src/sptensor.s: src/sptensor.cpp.s
+
+.PHONY : src/sptensor.s
+
+# target to generate assembly for a file
+src/sptensor.cpp.s:
+	$(MAKE) -f CMakeFiles/sptucker.dir/build.make CMakeFiles/sptucker.dir/src/sptensor.cpp.s
+.PHONY : src/sptensor.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -222,6 +249,9 @@ help:
 	@echo "... src/read_data.o"
 	@echo "... src/read_data.i"
 	@echo "... src/read_data.s"
+	@echo "... src/sptensor.o"
+	@echo "... src/sptensor.i"
+	@echo "... src/sptensor.s"
 .PHONY : help
 
 
