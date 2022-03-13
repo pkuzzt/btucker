@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sptucker.dir/main.cpp.o CMakeFiles/sptucker.dir/src/def.cpp.o CMakeFiles/sptucker.dir/src/read_data.cpp.o  -o sptucker 
